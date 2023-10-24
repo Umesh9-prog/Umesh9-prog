@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Umesh9-prog
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently Pursuing Computer Science Degree
+Code Contributor!
 - 
 - 📫 How to reach me Email: bhatiumeshbhati@gmail.com
 
